@@ -1,6 +1,6 @@
 # Sobre
 ---
-Biblioteca para consulta de CEP para projetos em C# de maneira simples, rapida e eficiente.
+Biblioteca para consulta de CEP para projetos em C# de maneira simples, rápida e eficiente.
 
 Desenvolvida utilizando o Webservice da [Via Cep](https://viacep.com.br/).
 
